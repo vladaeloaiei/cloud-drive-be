@@ -1,7 +1,6 @@
 # cloud-drive-be
 This is the back-end for the Cloud Drive project. 
-OAuth2
-JDK14
+AWS (S3, SQS, SNS, EB, EC2)
 
 ## How to install
  - clone the project
