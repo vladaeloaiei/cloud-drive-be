@@ -28,7 +28,7 @@
         <java.version>1.8</java.version>
         <model.mapper.version>2.3.5</model.mapper.version>
         <spring-cloud.version>2.1.0.RELEASE</spring-cloud.version>
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
         <jjwt.version>0.9.1</jjwt.version>
         <guava.version>20.0</guava.version>
     </properties>
